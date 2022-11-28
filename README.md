@@ -3,10 +3,17 @@
 ## I - Mirror Articles
 
 - [Main](https://officercia.mirror.xyz)
+
 - [Back-Up 1](https://ipfs.io/ipfs/bafybeieyuhqbs24jygxsiayamjxz5nez4nrbfolsm6sfnznoybgp2zfhha)
 - [Back-Up 2](https://cloudflare-ipfs.com/ipfs/bafybeieyuhqbs24jygxsiayamjxz5nez4nrbfolsm6sfnznoybgp2zfhha)
 - [Back-Up 3](https://ipfs.infura.io:5001/api/v0/cat?arg=bafybeieyuhqbs24jygxsiayamjxz5nez4nrbfolsm6sfnznoybgp2zfhha)
 - [Back-Up 4](https://gateway.ipfs.io/ipfs/bafybeieyuhqbs24jygxsiayamjxz5nez4nrbfolsm6sfnznoybgp2zfhha)
+
+```
+log > is just the log output of wget
+mirror-media.imgix.net >> here are the images
+officercia.mirror.xyz >> here the articles
+```
 
 ## II - HackerNoon Articles
 
