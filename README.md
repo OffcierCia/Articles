@@ -2,7 +2,11 @@
 
 ## I - Mirror Articles
 
-- [officercia.mirror.xyz](https://officercia.mirror.xyz)
+- [Main](https://officercia.mirror.xyz)
+- [Back-Up 1](https://ipfs.io/ipfs/bafybeieyuhqbs24jygxsiayamjxz5nez4nrbfolsm6sfnznoybgp2zfhha)
+- [Back-Up 2](https://cloudflare-ipfs.com/ipfs/bafybeieyuhqbs24jygxsiayamjxz5nez4nrbfolsm6sfnznoybgp2zfhha)
+- [Back-Up 3](https://ipfs.infura.io:5001/api/v0/cat?arg=bafybeieyuhqbs24jygxsiayamjxz5nez4nrbfolsm6sfnznoybgp2zfhha)
+- [Back-Up 4](https://gateway.ipfs.io/ipfs/bafybeieyuhqbs24jygxsiayamjxz5nez4nrbfolsm6sfnznoybgp2zfhha)
 
 ## II - HackerNoon Articles
 
